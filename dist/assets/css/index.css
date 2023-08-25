@@ -1,0 +1,28 @@
+.nomal {
+  padding: 0.4rem 1.5rem !important;
+}
+.rule {
+  /* background: #f3fbff; */
+  border: 2px skyblue dashed;
+  margin-bottom: 0.3rem;
+  font-size: 0.8rem;
+  }
+.rule-title {
+  text-align: center;
+}
+#line {
+  color: rgb(255, 174, 0);
+}
+.card-title {
+  text-align: center;
+}
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled,
+.btn-outline-primary:disabled:hover {
+  color: #8e8e8e !important;
+  background-color: transparent !important;
+  border-color: #8e8e8e !important;
+}
+.card {
+  margin-bottom: 0.5rem;
+}
